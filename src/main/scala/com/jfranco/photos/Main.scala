@@ -1,4 +1,4 @@
-package hello
+package com.jfranco.photos
 
 import cats.*
 import cats.effect.*
